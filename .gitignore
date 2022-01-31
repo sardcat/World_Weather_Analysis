@@ -51,6 +51,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 config.py
+API_practice.ipynb
+random_numbers.ipynb
 
 # Translations
 *.mo
