@@ -7,5 +7,6 @@ Data Analysis for PlanMyTrip utilizing Python, Pandas &amp; API Scripting.
 This project focuses on further utilization of Python via Jupyter: expanding into random number generation, API calls and Google mapping
 in three sub-projects to produce a "What-If" Travel Itinerary.
 
-Super Island Adventure!
+#### Super Island Adventure!
+
 ![](/Vacation_Itinerary/WeatherPy_travel_map.png)
